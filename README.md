@@ -25,7 +25,7 @@ Target Classes:
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following models were trained and evaluated:
 
@@ -46,7 +46,7 @@ The project generates:
 
 ---
 
-## 🌐 Flask Web Application
+##  Flask Web Application
 
 The trained Random Forest model is deployed using Flask.
 
@@ -58,7 +58,7 @@ Users can:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Flask
@@ -71,7 +71,7 @@ Users can:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Iris-Flower-Classification/
@@ -89,7 +89,7 @@ Iris-Flower-Classification/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Install required libraries:
 
@@ -125,7 +125,7 @@ The Random Forest Classifier was selected as the final prediction model.
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Misbah Saeed**
 
